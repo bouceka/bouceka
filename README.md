@@ -24,7 +24,7 @@ My primary interest is front-end web development, using languages like TypeScrip
 I look forward to collaborating with like-minded developers in the future and working to make valuable contributions to the industry.
 
  📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/adam-boucek-42704b200/)
+- [LinkedIn](https://www.linkedin.com/in/adam-boucek/)
 - [Email me](mailto:adam@boucek.dev)
 - [Website](https://www.boucek.dev)
 
