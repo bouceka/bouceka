@@ -27,6 +27,7 @@ I look forward to collaborating with like-minded developers in the future and wo
 - [LinkedIn](https://www.linkedin.com/in/adam-boucek/)
 - [Email me](mailto:adam@boucek.dev)
 - [Website](https://www.boucekdev.com)
+- [Medium](https://medium.com/@boucekdev)
 
 
 #### 💻 Tech Stack:
