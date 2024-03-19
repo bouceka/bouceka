@@ -6,18 +6,18 @@ My name is Adam Boucek, and I am an aspiring Full-Stack developer with extensive
 
 ## About me:
 
-I am 25 years old, and I love doing sports, and I hate losing. I bring my winning mentality into my projects. I also have experience designing websites in Figma, which helps me create any project from scratch. I continually work on my skills and education. I’m passionate about Front-end, Back-end, DevOps, and UX/UI design. 
+I am 24 years old, and I love doing sports, and I hate losing. I bring my winning mentality into my projects. I also have experience designing websites in Figma, which helps me create any project from scratch. I continually work on my skills and education. I’m passionate about Front-end, Back-end, DevOps, and UX/UI design. 
 
-In my free time, you can see me kayaking and playing soccer or volleyball.
+You can see me kayaking and playing soccer or volleyball in my free time.
 
 Throughout my career, I developed skills in the following areas:
 
  - Applied TypeScript techniques for modern web development
+ - Using React and NextJS for front-end
  - Advanced CSS techniques for modern web development
  - Developing NestJS apps using GraphQL, TypeORM
- - Building simple microservices in Kotlin with Micronaut
+ - Building microservices in C# with .NET
  - Using Docker for easier development
- - Using React and NextJS for front-end
 
 My primary interest is front-end web development, using languages like TypeScript, Sass, and Kotlin and their associated frameworks to build attractive/functional web applications.
 
@@ -38,11 +38,8 @@ I look forward to collaborating with like-minded developers in the future and wo
 [![](https://visitcount.itsvg.in/api?id=bouceka&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
-**bouceka/bouceka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
