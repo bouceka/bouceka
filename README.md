@@ -6,7 +6,7 @@ My name is Adam Boucek, and I am an aspiring Full-Stack developer with extensive
 
 ## About me:
 
-I am 24 years old, and I love doing sports, and I hate losing. I bring my winning mentality into my projects. I also have experience designing websites in Figma, which helps me create any project from scratch. I continually work on my skills and education. I’m passionate about Front-end, Back-end, DevOps, and UX/UI design. 
+I am 26 years old, and I love doing sports, and I hate losing. I bring my winning mentality into my projects. I also have experience designing websites in Figma, which helps me create any project from scratch. I continually work on my skills and education. I’m passionate about Front-end, Back-end, DevOps, and UX/UI design. 
 
 You can see me kayaking and playing soccer or volleyball in my free time.
 
