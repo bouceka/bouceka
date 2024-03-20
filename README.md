@@ -1,7 +1,7 @@
 
 # Hi there 👋 
 
-My name is Adam Boucek, and I am an aspiring Full-Stack developer with extensive knowledge of TypeScript, Sass, NestJS, React, .NET Core, and Kotlin.
+My name is Adam Boucek, and I am an aspiring Full-Stack developer with extensive knowledge of TypeScript, Sass, NestJS, React, .NET Core, and React Native.
 
 
 ## About me:
